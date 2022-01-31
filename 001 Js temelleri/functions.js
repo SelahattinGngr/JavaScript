@@ -63,7 +63,8 @@ function sayiuret2(ustlimit) // fonksıyonu console.log(ustlimit) seklınde yazd
    return Math.ceil(Math.random() * ustlimit)
 }
 
-/* var degisken01 = "degisken01" */ // fonksıyon dısında olusturdugumuz ıcın ekrana basılabılır
+var degisken01 = "degisken01"
+// fonksıyon dısında olusturdugumuz ıcın ekrana basılabılır
 function sayiuret2(ustlimit)
 {
    return Math.ceil(Math.random() * ustlimit)
