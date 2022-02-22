@@ -1,0 +1,763 @@
+[
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-11-28T17:05:13.408Z[UTC]",
+    "searchQuery" : "bağx",
+    "searchInteractionURIs" : [
+      "spotify:artist:2WEI5FlFf3Zc5rOKTTLOJe"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-11-29T07:43:15.368Z[UTC]",
+    "searchQuery" : "küfür med",
+    "searchInteractionURIs" : [
+      "spotify:show:0IZb7Y060GVPTxP7WV5qXW"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-01T20:53:26.436Z[UTC]",
+    "searchQuery" : "unutamadim",
+    "searchInteractionURIs" : [
+      "spotify:track:0aTxurHLM42uBcAxjsZLES"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-03T20:27:49.382Z[UTC]",
+    "searchQuery" : "unutna",
+    "searchInteractionURIs" : [
+      "spotify:track:1mRlWwAqXJb8OonNuS8UPV"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-03T21:26:16.210Z[UTC]",
+    "searchQuery" : "sika sika",
+    "searchInteractionURIs" : [
+      "spotify:track:5tGIrNjdfZZN1RfNmbk8qQ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-03T21:39:33.594Z[UTC]",
+    "searchQuery" : "sora sor",
+    "searchInteractionURIs" : [
+      "spotify:track:0MiRPoCPsXoGzC3ZP9YUxm"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-03T21:39:34.321Z[UTC]",
+    "searchQuery" : "sora sora",
+    "searchInteractionURIs" : [
+      "spotify:artist:5rBUMBV7L6zPsEKnlgiOm9"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-07T08:01:08.515Z[UTC]",
+    "searchQuery" : "yener",
+    "searchInteractionURIs" : [
+      "spotify:artist:5rBUMBV7L6zPsEKnlgiOm9"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-08T08:32:02.269Z[UTC]",
+    "searchQuery" : "madr",
+    "searchInteractionURIs" : [
+      "spotify:artist:2aZlYOswKNlrwqpuTsckKd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-08T09:13:57.355Z[UTC]",
+    "searchQuery" : "nagz",
+    "searchInteractionURIs" : [
+      "spotify:artist:2WEI5FlFf3Zc5rOKTTLOJe"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-08T09:14:02.409Z[UTC]",
+    "searchQuery" : "ba",
+    "searchInteractionURIs" : [
+      "spotify:artist:2WEI5FlFf3Zc5rOKTTLOJe"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-09T11:25:10.816Z[UTC]",
+    "searchQuery" : "rapnos",
+    "searchInteractionURIs" : [
+      "spotify:artist:23MDCLi4njwWyiuw3FgDkt"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-09T16:15:58.503Z[UTC]",
+    "searchQuery" : "norm",
+    "searchInteractionURIs" : [
+      "spotify:artist:3S6gaE89XewFAvZqsMuJDJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-14T01:29:59.685Z[UTC]",
+    "searchQuery" : "giresun",
+    "searchInteractionURIs" : [
+      "spotify:track:0ffZ9QyjxZDFiPldoaUtzY"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-14T09:01:03.946Z[UTC]",
+    "searchQuery" : "ben nr ",
+    "searchInteractionURIs" : [
+      "spotify:track:52xWJauzgjDlikI3AqYwG8"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:23:33.937Z[UTC]",
+    "searchQuery" : "sex on the",
+    "searchInteractionURIs" : [
+      "spotify:track:1O4CLUjuYlzfIdEJ9TJ5cz"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:27:19.124Z[UTC]",
+    "searchQuery" : "cimilli",
+    "searchInteractionURIs" : [
+      "spotify:artist:5vJ0V9IUcNBMOK1JDhqwd5"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:33:31.190Z[UTC]",
+    "searchQuery" : "aç kapıyı gard",
+    "searchInteractionURIs" : [
+      "spotify:track:6MTHBsiIhQHLOaffkPWgov",
+      "spotify:album:69OVvyTsLdNHRt72HbWSWX",
+      "spotify:episode:0YFzHze1J0GZpx0hZaSKda"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:36:04.159Z[UTC]",
+    "searchQuery" : "derniere dan",
+    "searchInteractionURIs" : [
+      "spotify:track:65uoaqX5qcjXZRheAj1qQT"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:37:19.766Z[UTC]",
+    "searchQuery" : "yorgun",
+    "searchInteractionURIs" : [
+      "spotify:track:1ffexZp7QsAa3R04gd6W2A"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:38:49.929Z[UTC]",
+    "searchQuery" : "self",
+    "searchInteractionURIs" : [
+      "spotify:track:6JNJERZGJwDVgkmbohBw7u"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:48:53.080Z[UTC]",
+    "searchQuery" : "ahmet hamdi akman",
+    "searchInteractionURIs" : [
+      "spotify:user:31jwfsv73fuudbrozwnrwfnlk34i"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T14:57:30.550Z[UTC]",
+    "searchQuery" : "bir ihtimal daha var s",
+    "searchInteractionURIs" : [
+      "spotify:episode:0G31goeS0HSDciy39W0BUg"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T15:13:15.914Z[UTC]",
+    "searchQuery" : "İstanbul sokakları muz",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T15:13:20.392Z[UTC]",
+    "searchQuery" : "İstanbul sokakları",
+    "searchInteractionURIs" : [
+      "spotify:track:58y7uSRkJobEFglUEGi34E",
+      "spotify:track:6mLS225bnlUwiQ9G149Obi"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T15:18:39.611Z[UTC]",
+    "searchQuery" : "içim ici",
+    "searchInteractionURIs" : [
+      "spotify:track:0LUmJhNerb8OQV2e2hUp4v"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T15:20:14.375Z[UTC]",
+    "searchQuery" : "fikrimin i",
+    "searchInteractionURIs" : [
+      "spotify:track:7vGjpfq0lfU0ySQapkcv9x",
+      "spotify:track:2Raob01F16ShBaDd44uTVO"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-18T15:27:51.824Z[UTC]",
+    "searchQuery" : "eyle",
+    "searchInteractionURIs" : [
+      "spotify:artist:1FXTuxobdo03RcAcuEFmPY"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-23T18:48:41.644Z[UTC]",
+    "searchQuery" : "cen as",
+    "searchInteractionURIs" : [
+      "spotify:artist:2AWUCT9xtcvkjpFq1ZgpPj"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-25T09:42:33.007Z[UTC]",
+    "searchQuery" : "ama o an",
+    "searchInteractionURIs" : [
+      "spotify:track:5pbFyTdwtJVmZB5LXmccX4",
+      "spotify:artist:6RTC1abMgBC7Krg6qJQHJh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T09:28:25.075Z[UTC]",
+    "searchQuery" : "alexandra sa",
+    "searchInteractionURIs" : [
+      "spotify:artist:2qqZbV6smvvtohQOUgZqKa"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T09:54:25.468Z[UTC]",
+    "searchQuery" : "geri dön cengiz",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T09:54:29.509Z[UTC]",
+    "searchQuery" : "kullenen",
+    "searchInteractionURIs" : [
+      "spotify:track:6MOsPYBglj51uRtpU2XxUw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T11:56:33.954Z[UTC]",
+    "searchQuery" : "mutlu ol",
+    "searchInteractionURIs" : [
+      "spotify:track:2FBoxlXWATApoFs6489Apn",
+      "spotify:track:67C2BMBlEdXXG82ah3cpGD",
+      "spotify:track:2FBoxlXWATApoFs6489Apn",
+      "spotify:track:67C2BMBlEdXXG82ah3cpGD"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T22:30:54.383Z[UTC]",
+    "searchQuery" : "adamla",
+    "searchInteractionURIs" : [
+      "spotify:artist:1g4J8P1JWwanNyyXckRX5W"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T23:26:49.040Z[UTC]",
+    "searchQuery" : "sevdam dag",
+    "searchInteractionURIs" : [
+      "spotify:track:33meD81wJ2rWowwL8BziuO"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T23:26:58.788Z[UTC]",
+    "searchQuery" : "galata",
+    "searchInteractionURIs" : [
+      "spotify:track:0w5mKLexkMJqgcMpjLmqq6"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-26T23:28:59.931Z[UTC]",
+    "searchQuery" : "galata sib",
+    "searchInteractionURIs" : [
+      "spotify:track:2pdsYzFlYz88q94xUYsEu7"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-27T10:27:02.247Z[UTC]",
+    "searchQuery" : "duma",
+    "searchInteractionURIs" : [
+      "spotify:artist:6RTC1abMgBC7Krg6qJQHJh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-27T14:44:31.405Z[UTC]",
+    "searchQuery" : "ez",
+    "searchInteractionURIs" : [
+      "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-27T14:58:04.338Z[UTC]",
+    "searchQuery" : "aralik",
+    "searchInteractionURIs" : [
+      "spotify:track:1bPJXgzo5sPPl6QdySkJN2"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-12-29T14:58:20.487Z[UTC]",
+    "searchQuery" : "sago",
+    "searchInteractionURIs" : [
+      "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-02T08:01:55.614Z[UTC]",
+    "searchQuery" : "cimull",
+    "searchInteractionURIs" : [
+      "spotify:artist:5vJ0V9IUcNBMOK1JDhqwd5"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-02T08:04:31.977Z[UTC]",
+    "searchQuery" : "manga",
+    "searchInteractionURIs" : [
+      "spotify:artist:7rEIUw67hRTgievwuKQGSj"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-02T08:36:12.466Z[UTC]",
+    "searchQuery" : "takatin",
+    "searchInteractionURIs" : [
+      "spotify:track:3bsElU3Qf59Y2c1GhyomWX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-02T08:40:39.567Z[UTC]",
+    "searchQuery" : "dilberay",
+    "searchInteractionURIs" : [
+      "spotify:artist:04n4ggzUiefCzIvWO1wXmc"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T08:56:49.682Z[UTC]",
+    "searchQuery" : "eyl",
+    "searchInteractionURIs" : [
+      "spotify:artist:1FXTuxobdo03RcAcuEFmPY",
+      "spotify:user:esds09d5re9wbykem2nsn4bbk"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T09:26:10.177Z[UTC]",
+    "searchQuery" : "manu",
+    "searchInteractionURIs" : [
+      "spotify:artist:6p4UYgBKfV1XMDvD9KrtTv"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T09:40:24.129Z[UTC]",
+    "searchQuery" : "bir ayrilik bir",
+    "searchInteractionURIs" : [
+      "spotify:track:2vxcYIGQZD7Hrm651PlRq2"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T09:41:05.306Z[UTC]",
+    "searchQuery" : "canım dedik",
+    "searchInteractionURIs" : [
+      "spotify:track:5K9Iw6ClTycfntvDUhkeYe",
+      "spotify:track:2U2tKaPnV4B4cEgCvtK1Cb",
+      "spotify:track:2U2tKaPnV4B4cEgCvtK1Cb"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T09:42:07.449Z[UTC]",
+    "searchQuery" : "çaresizim",
+    "searchInteractionURIs" : [
+      "spotify:track:6Bl1Vij3LCDHeyhEgHOzgJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T09:43:43.812Z[UTC]",
+    "searchQuery" : "sen ruz",
+    "searchInteractionURIs" : [
+      "spotify:track:3Es5ZShXCdjbsOwAGXyh02"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T16:37:21.940Z[UTC]",
+    "searchQuery" : "soyle",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T16:37:34.372Z[UTC]",
+    "searchQuery" : "hadi soy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-03T16:37:43.902Z[UTC]",
+    "searchQuery" : "soyl",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:05:07.963Z[UTC]",
+    "searchQuery" : "canal",
+    "searchInteractionURIs" : [
+      "spotify:artist:6CPZWzcKiOKkHn4L2XI4i2"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:06:36.165Z[UTC]",
+    "searchQuery" : "hasbi",
+    "searchInteractionURIs" : [
+      "spotify:track:3EQXi4ya9o7Rjvz6GJ7W7W"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:06:58.289Z[UTC]",
+    "searchQuery" : "uy",
+    "searchInteractionURIs" : [
+      "spotify:track:5MfsYYvfxZTeIkdh3I4yWW"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:12:38.051Z[UTC]",
+    "searchQuery" : "Müslüm",
+    "searchInteractionURIs" : [
+      "spotify:artist:4cMwyqmHCwJjRZ3frIVHTr"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:13:14.150Z[UTC]",
+    "searchQuery" : "bir k",
+    "searchInteractionURIs" : [
+      "spotify:track:380FbszCi2WPjFUPfBL75n"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:16:34.294Z[UTC]",
+    "searchQuery" : "sede",
+    "searchInteractionURIs" : [
+      "spotify:artist:1dvuibBCx9TnbCKIdOEF4l"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:16:58Z[UTC]",
+    "searchQuery" : "sede sebüktekin bugun",
+    "searchInteractionURIs" : [
+      "spotify:track:2rBEn4RvWMIy5yRrTM1nKh",
+      "spotify:track:2rBEn4RvWMIy5yRrTM1nKh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:18:12.611Z[UTC]",
+    "searchQuery" : "bergen",
+    "searchInteractionURIs" : [
+      "spotify:artist:0OjAaymO59uGiFmfpJrQpl"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-07T21:23:57.893Z[UTC]",
+    "searchQuery" : "dombra",
+    "searchInteractionURIs" : [
+      "spotify:track:3RLnSL18nHJGL9GzzAr4UI"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-08T09:45:58.926Z[UTC]",
+    "searchQuery" : "adam",
+    "searchInteractionURIs" : [
+      "spotify:artist:1g4J8P1JWwanNyyXckRX5W",
+      "spotify:playlist:37i9dQZF1DX0bSJWcFRchJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-08T09:51:57.409Z[UTC]",
+    "searchQuery" : "dum",
+    "searchInteractionURIs" : [
+      "spotify:artist:6RTC1abMgBC7Krg6qJQHJh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-21T20:06:49.479Z[UTC]",
+    "searchQuery" : "zeki",
+    "searchInteractionURIs" : [
+      "spotify:artist:0ZZDIo31D35xGrXYTodWrL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-21T20:07:06.829Z[UTC]",
+    "searchQuery" : "arcane",
+    "searchInteractionURIs" : [
+      "spotify:track:1r9xUipOqoNwggBpENDsvJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-24T21:52:54.399Z[UTC]",
+    "searchQuery" : "ayna",
+    "searchInteractionURIs" : [
+      "spotify:track:2bZ09iG0ToezgVDpVkiwWl"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-24T21:53:05.965Z[UTC]",
+    "searchQuery" : "aydil",
+    "searchInteractionURIs" : [
+      "spotify:artist:0cjA9XY1jx3RlniZbMkCWy"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-24T21:56:50.961Z[UTC]",
+    "searchQuery" : "cem",
+    "searchInteractionURIs" : [
+      "spotify:artist:2AWUCT9xtcvkjpFq1ZgpPj"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-26T18:49:20.064Z[UTC]",
+    "searchQuery" : "zeki",
+    "searchInteractionURIs" : [
+      "spotify:artist:0ZZDIo31D35xGrXYTodWrL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-27T15:18:35.593Z[UTC]",
+    "searchQuery" : "rasi",
+    "searchInteractionURIs" : [
+      "spotify:artist:3xtQQsJvIjKcyaLT4uMsWz"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-27T15:35:45.635Z[UTC]",
+    "searchQuery" : "daha degil gitme",
+    "searchInteractionURIs" : [
+      "spotify:track:4WVOnhv2a3vvBAzHbmdGHW"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-01-29T19:43:35.442Z[UTC]",
+    "searchQuery" : "baba",
+    "searchInteractionURIs" : [
+      "spotify:track:4WVOnhv2a3vvBAzHbmdGHW"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-01T19:46:47.248Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+      "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-06T17:09:16.116Z[UTC]",
+    "searchQuery" : "bir om",
+    "searchInteractionURIs" : [
+      "spotify:track:4yEcv66XHFSgNpV0Zn3q5P",
+      "spotify:episode:0G31goeS0HSDciy39W0BUg"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-08T09:45:30.214Z[UTC]",
+    "searchQuery" : "hidra",
+    "searchInteractionURIs" : [
+      "spotify:artist:3yzGegJHrOW1CndMVFoo3m"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-08T09:46:36.093Z[UTC]",
+    "searchQuery" : "ciceklerde ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-08T09:47:31.497Z[UTC]",
+    "searchQuery" : "bol p",
+    "searchInteractionURIs" : [
+      "spotify:track:4Lypqd7t3vnn4ynCaDQ0sX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-08T09:48:07.816Z[UTC]",
+    "searchQuery" : "yarim kalan",
+    "searchInteractionURIs" : [
+      "spotify:track:0HbKbkAMK7Wnps5vpZW4j2",
+      "spotify:track:0HbKbkAMK7Wnps5vpZW4j2",
+      "spotify:track:0lJjLHWiI3437GmMQQrwwd",
+      "spotify:track:0lJjLHWiI3437GmMQQrwwd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-08T09:48:40.081Z[UTC]",
+    "searchQuery" : "ciceklerde",
+    "searchInteractionURIs" : [
+      "spotify:track:2qUnAqpfNPkfu0u7wwB9va",
+      "spotify:track:2qUnAqpfNPkfu0u7wwB9va"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-09T07:23:21.519Z[UTC]",
+    "searchQuery" : "donum",
+    "searchInteractionURIs" : [
+      "spotify:show:5Q6OOjOl2ltqW6T33UKlfx"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-11T09:29:20.735Z[UTC]",
+    "searchQuery" : "ba",
+    "searchInteractionURIs" : [
+      "spotify:track:4WVOnhv2a3vvBAzHbmdGHW",
+      "spotify:artist:2WEI5FlFf3Zc5rOKTTLOJe"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T08:54:50.897Z[UTC]",
+    "searchQuery" : "shazam",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2LzPtxki265c4X4aWpw6kx",
+      "spotify:user:shazam"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T08:56:36.933Z[UTC]",
+    "searchQuery" : "bir alo",
+    "searchInteractionURIs" : [
+      "spotify:track:5sXTNAVjPXpWZfJrPnKGSo"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T09:11:32.701Z[UTC]",
+    "searchQuery" : "can berk",
+    "searchInteractionURIs" : [
+      "spotify:track:0BKvUZncB9em84dRe1qpDQ",
+      "spotify:artist:34f2y3cxJoiSZ6gtmhXReM"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T09:11:48.849Z[UTC]",
+    "searchQuery" : "yoklugun",
+    "searchInteractionURIs" : [
+      "spotify:episode:5vT6nVAua8FI2y8NPPpTPo",
+      "spotify:track:4Y2hVS0UQZ7yCnOkU6Z39H",
+      "spotify:artist:2qOlVNqJQOGKZd81zZ8qOC"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T09:12:37.739Z[UTC]",
+    "searchQuery" : "vur k",
+    "searchInteractionURIs" : [
+      "spotify:track:3tFYj8tV2Ui6lNS3NScIoI"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T09:12:51.636Z[UTC]",
+    "searchQuery" : "gamze",
+    "searchInteractionURIs" : [
+      "spotify:track:6glvSyTo1y4WLtX0mnDq83"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T09:13:36.936Z[UTC]",
+    "searchQuery" : "endamin",
+    "searchInteractionURIs" : [
+      "spotify:track:5n1MwdIRqFtsFO4qp86USa"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-12T10:25:50.972Z[UTC]",
+    "searchQuery" : "ben f",
+    "searchInteractionURIs" : [
+      "spotify:artist:2kS0jWMkkFBL0mrl0VotD0"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-02-18T11:16:44.208Z[UTC]",
+    "searchQuery" : "gidiyorum",
+    "searchInteractionURIs" : [
+      "spotify:track:3wQOWh9eDh2yUtjwIFoFUb"
+    ]
+  }
+]
